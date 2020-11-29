@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-facade-xml type="demo">
+    
+    <Example.Example exampleId="TestOne" description="Test one description."/>
+    <Example.Example exampleId="TestOne" description="Test one description."/>
+    <Example.Example exampleId="TestOne" description="Test one description."/>
+    <Example.Example exampleId="TestOne" description="Test one description."/>
+    <Example.Example exampleId="TestOne" description="Test one description."/>
+</entity-facade-xml>
